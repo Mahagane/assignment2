@@ -1,13 +1,13 @@
-#Business Analytics Terminology Assignment
+Business Analytics Terminology Assignment
 #Overview
 
 This project is a research-based assignment from the BrightLearn Business Analytics — Foundations (Module 01) course. The main purpose of this assignment is to build a strong understanding of key business analytics terminology and how these concepts are applied in real-world business environments.
 
 The assignment focuses on defining, explaining, and applying 38 essential business analytics terms, covering foundational concepts, data measurement, customer KPIs, and marketing analytics.
 
-#Objectives
+Objectives
 
-#The key objectives of this assignment were to:
+The key objectives of this assignment were to:
 
 - Develop a solid foundation in business analytics vocabulary
 - Clearly distinguish between commonly confused concepts (e.g., KPI vs Metric, CAC vs CLV)
@@ -15,11 +15,11 @@ The assignment focuses on defining, explaining, and applying 38 essential busine
 - Apply each concept to a real-world business scenario
 - Improve research, analytical thinking, and communication skills
   
-#Assignment Structure
+Assignment Structure
 
-#The assignment is divided into four main sections:
+The assignment is divided into four main sections:
 
-#Foundational Concepts of Analytics
+Foundational Concepts of Analytics
 
 Covers the basics of analytics, including:
 
@@ -28,16 +28,16 @@ Covers the basics of analytics, including:
 - Types of analytics (Descriptive, Diagnostic, Predictive, Prescriptive)
 - Big Data and Data Literacy
 
-#Data, Measurement & Reporting (Focuses on how data is collected, stored, and interpreted):
+Data, Measurement & Reporting (Focuses on how data is collected, stored, and interpreted):
 
 - Structured vs Unstructured Data
 - Data Warehousing and Data Mining
 - Metrics vs Key Performance Indicators (KPIs)
 - Dashboards and Data Visualization
 
-#Customer & Sales KPIs
+Customer & Sales KPIs
 
-#Explores performance metrics related to customers and revenue:
+Explores performance metrics related to customers and revenue:
 
 - Conversion Rate
 Customer Acquisition Cost (CAC)
@@ -47,7 +47,7 @@ Net Promoter Score (NPS)
 Sales Funnel
 4. Marketing & Campaign Analytics
 
-#Examines how marketing performance is measured:
+Examines how marketing performance is measured:
 
 Marketing Campaigns
 Return on Investment (ROI)
@@ -69,7 +69,7 @@ Academic materials
 Industry websites (e.g., analytics and marketing platforms)
 Business research publications
 
-#Key Findings & Insights
+Key Findings & Insights
 Business analytics is not just about data, but about turning data into actionable insights.
 There is a clear distinction between:
 Metrics (general measurements)
