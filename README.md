@@ -1,5 +1,6 @@
 Business Analytics Terminology Assignment
-#Overview
+
+Overview
 
 This project is a research-based assignment from the BrightLearn Business Analytics — Foundations (Module 01) course. The main purpose of this assignment is to build a strong understanding of key business analytics terminology and how these concepts are applied in real-world business environments.
 
