@@ -40,42 +40,43 @@ Customer & Sales KPIs
 Explores performance metrics related to customers and revenue:
 
 - Conversion Rate
-Customer Acquisition Cost (CAC)
-Customer Lifetime Value (CLV)
-Churn Rate & Retention Rate
-Net Promoter Score (NPS)
-Sales Funnel
+- Customer Acquisition Cost (CAC)
+- Customer Lifetime Value (CLV)
+- Churn Rate & Retention Rate
+- Net Promoter Score (NPS)
+- Sales Funnel
+  
 4. Marketing & Campaign Analytics
 
 Examines how marketing performance is measured:
 
-Marketing Campaigns
-Return on Investment (ROI)
-Return on Ad Spend (ROAS)
-Click-Through Rate (CTR)
-A/B Testing
-#Marketing Attribution
- Methodology
+- Marketing Campaigns
+- Return on Investment (ROI)
+- Return on Ad Spend (ROAS)
+- Click-Through Rate (CTR)
+- A/B Testing
+  
+Marketing Attribution
+Methodology
 
 For each of the 38 terms, the following approach was used:
 
-Definition
-Each concept was explained clearly in my own words.
-Real-World Example
-A practical example was provided to show how the concept is used in business.
-Research Sources
-Information was gathered from credible sources such as:
-Academic materials
-Industry websites (e.g., analytics and marketing platforms)
-Business research publications
+- Definition
+- Each concept was explained clearly in my own words.
+- Real-World Example
+- A practical example was provided to show how the concept is used in business.
+- Research Sources
+- Information was gathered from credible sources such as:
+- Academic materials
+- Industry websites (e.g., analytics and marketing platforms)
+- Business research publications
 
 Key Findings & Insights
-Business analytics is not just about data, but about turning data into actionable insights.
-There is a clear distinction between:
-Metrics (general measurements)
-KPIs (strategic metrics that impact decisions)
-Customer-related KPIs such as CLV and CAC are critical in determining business profitability.
-The CLV:CAC ratio is a key indicator of business health.
-Marketing success is heavily dependent on data tracking and performance measurement.
-Concepts like A/B testing and attribution help businesses optimize campaigns effectively.
-Data-driven decision-making improves accuracy, efficiency, and competitiveness.
+- Business analytics is not just about data, but about turning data into actionable insights.
+- There is a clear distinction between:
+- Metrics (general measurements) and KPIs (strategic metrics that impact decisions)
+- Customer-related KPIs such as CLV and CAC are critical in determining business profitability.
+- The CLV:CAC ratio is a key indicator of business health.
+- Marketing success is heavily dependent on data tracking and performance measurement.
+- Concepts like A/B testing and attribution help businesses optimize campaigns effectively.
+- Data-driven decision-making improves accuracy, efficiency, and competitiveness.
