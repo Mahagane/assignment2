@@ -54,8 +54,8 @@ Return on Investment (ROI)
 Return on Ad Spend (ROAS)
 Click-Through Rate (CTR)
 A/B Testing
-Marketing Attribution
-🔍 Methodology
+#Marketing Attribution
+ Methodology
 
 For each of the 38 terms, the following approach was used:
 
