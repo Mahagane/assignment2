@@ -1,44 +1,45 @@
-#📊 Business Analytics Terminology Assignment
-📌 Overview
+#Business Analytics Terminology Assignment
+#Overview
 
 This project is a research-based assignment from the BrightLearn Business Analytics — Foundations (Module 01) course. The main purpose of this assignment is to build a strong understanding of key business analytics terminology and how these concepts are applied in real-world business environments.
 
 The assignment focuses on defining, explaining, and applying 38 essential business analytics terms, covering foundational concepts, data measurement, customer KPIs, and marketing analytics.
 
-🎯 Objectives
+#Objectives
 
 #The key objectives of this assignment were to:
 
-Develop a solid foundation in business analytics vocabulary
-Clearly distinguish between commonly confused concepts (e.g., KPI vs Metric, CAC vs CLV)
-Understand how businesses use data to make data-driven decisions
-Apply each concept to a real-world business scenario
-Improve research, analytical thinking, and communication skills
-📚 Assignment Structure
+- Develop a solid foundation in business analytics vocabulary
+- Clearly distinguish between commonly confused concepts (e.g., KPI vs Metric, CAC vs CLV)
+- Understand how businesses use data to make data-driven decisions
+- Apply each concept to a real-world business scenario
+- Improve research, analytical thinking, and communication skills
+  
+#Assignment Structure
 
 #The assignment is divided into four main sections:
 
-#1. Foundational Concepts of Analytics
+#Foundational Concepts of Analytics
 
 Covers the basics of analytics, including:
 
-Business Analytics vs Data Analytics
-Business Intelligence (BI)
-Types of analytics (Descriptive, Diagnostic, Predictive, Prescriptive)
-Big Data and Data Literacy
-2. Data, Measurement & Reporting
+- Business Analytics vs Data Analytics
+- Business Intelligence (BI)
+- Types of analytics (Descriptive, Diagnostic, Predictive, Prescriptive)
+- Big Data and Data Literacy
 
-#Focuses on how data is collected, stored, and interpreted:
+#Data, Measurement & Reporting (Focuses on how data is collected, stored, and interpreted):
 
-Structured vs Unstructured Data
-Data Warehousing and Data Mining
-Metrics vs Key Performance Indicators (KPIs)
-Dashboards and Data Visualization
-3. Customer & Sales KPIs
+- Structured vs Unstructured Data
+- Data Warehousing and Data Mining
+- Metrics vs Key Performance Indicators (KPIs)
+- Dashboards and Data Visualization
+
+#Customer & Sales KPIs
 
 #Explores performance metrics related to customers and revenue:
 
-Conversion Rate
+- Conversion Rate
 Customer Acquisition Cost (CAC)
 Customer Lifetime Value (CLV)
 Churn Rate & Retention Rate
@@ -68,7 +69,7 @@ Academic materials
 Industry websites (e.g., analytics and marketing platforms)
 Business research publications
 
-#📊 Key Findings & Insights
+#Key Findings & Insights
 Business analytics is not just about data, but about turning data into actionable insights.
 There is a clear distinction between:
 Metrics (general measurements)
